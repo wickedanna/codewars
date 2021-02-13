@@ -1,0 +1,43 @@
+/*
+Prompt:
+Wolves have been reintroduced to Great Britain. You are a sheep farmer, and are now plagued by wolves which pretend to be sheep. Fortunately, you are good at spotting them.
+
+Warn the sheep in front of the wolf that it is about to be eaten. Remember that you are standing at the front of the queue which is at the end of the array:
+
+[sheep, sheep, sheep, sheep, sheep, wolf, sheep, sheep]      (YOU ARE HERE AT THE FRONT OF THE QUEUE)
+   7      6      5      4      3            2      1
+If the wolf is the closest animal to you, return "Pls go away and stop eating my sheep". Otherwise, return "Oi! Sheep number N! You are about to be eaten by a wolf!" where N is the sheep's position in the queue.
+
+Note: there will always be exactly one wolf in the array.
+
+Examples
+warnTheSheep(["sheep", "sheep", "sheep", "wolf", "sheep"]) === "Oi! Sheep number 1! You are about to be eaten by a wolf!"
+
+warnTheSheep(["sheep", "sheep", "wolf"]) === "Pls go away and stop eating my sheep"
+*/
+
+const saveSheep = (arr) => {
+  const sheeps = arr.reverse();
+  const wolfIndex = sheeps.indexOf('wolf');
+  if (wolfIndex > 0) {
+  let sheepInDanger = wolfIndex - 1;
+  sheepInDanger += 1;
+  return `Oi! Sheep number ${sheepInDanger} get out of the way!`;
+  } else {
+  return 'Stop eating my sheep!';
+  }
+}
+
+
+
+/*
+Notes:
+// reverse the array
+// find the index of the wolf
+// if index is greater than 0, call for sheep at previous index + 1 to run
+// else index is 0, tell wolf to stop killing the sheep
+
+This challenge was pretty simply conceptually. I will refactor at some point. I feel like I am sitting between 8 and 7kyu
+in skill level right now. The concepts of 7 are still a little difficult for me to completely grasp, while the only thing I'm 
+missing for 8kyu challenges is more knowledge of string/array methods to make functions shorter the first time.
+*/

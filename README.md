@@ -10,6 +10,8 @@
 
 1. Filter Out The Geese
 
+1. Find Maximum and Minimum Values of a List
+
 1. Function 3 - Multiply Two Numbers
 
 1. Get Planet Name By Id
@@ -53,6 +55,8 @@
 1. You Only Need One - Beginner
 
 ## 7-Kyu
+
+1. All Unique
 
 1. Convert An Array of Strings to Array of Numbers
 

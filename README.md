@@ -32,6 +32,8 @@
 
 1. Multiply
 
+1. My Head is at the Wrong End
+
 1. No Loops 2 - You Only Need One
 
 1. Remove First and Last Character

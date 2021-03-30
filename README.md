@@ -85,3 +85,7 @@
 1. Testing 1-2-3
 
 1. Word Values
+
+## 6-Kyu
+
+1. Find the Odd Int

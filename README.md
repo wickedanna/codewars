@@ -60,6 +60,8 @@
 
 1. All Unique
 
+1. Cat and Mouse Easy Version
+
 1. Char Code Calculation
 
 1. Convert An Array of Strings to Array of Numbers

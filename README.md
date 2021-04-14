@@ -28,6 +28,8 @@
 
 1. Is He Gonna Survive?
 
+1. Keep up the Hoop
+
 1. Make Upper Case
 
 1. Multiply

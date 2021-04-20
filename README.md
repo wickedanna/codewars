@@ -96,6 +96,8 @@
 
 1. Separate Basic Types
 
+1. Small Enough - Beginner
+
 1. Square Every Digit
 
 1. Testing 1-2-3

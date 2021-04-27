@@ -62,6 +62,8 @@
 
 ## 7-Kyu
 
+1. All Star Coding Challenge #22
+
 1. All Unique
 
 1. Cat and Mouse Easy Version

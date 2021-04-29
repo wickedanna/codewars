@@ -40,6 +40,8 @@
 
 1. No Loops 2 - You Only Need One
 
+1. Price of Mangoes
+
 1. Remove First and Last Character
 
 1. Remove First and Last Character Part Two

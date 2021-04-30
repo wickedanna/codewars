@@ -84,6 +84,8 @@
 
 1. Find the Middle Element
 
+1. Find the Stray Number
+
 1. Isograms
 
 1. Life Path Number

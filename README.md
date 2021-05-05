@@ -88,6 +88,8 @@
 
 1. Find the Stray Number
 
+1. Find the Vowels
+
 1. Isograms
 
 1. Life Path Number

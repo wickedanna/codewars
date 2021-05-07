@@ -112,6 +112,8 @@
 
 1. Small Enough - Beginner
 
+1. Sort Arrays - 1
+
 1. Sort Numbers
 
 1. Spray Trees

@@ -56,6 +56,8 @@
 
 1. Square (n) Sum
 
+1. String Repeat
+
 1. Sum Mixed Array
 
 1. Sum of Positives

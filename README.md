@@ -122,6 +122,8 @@
 
 1. Square Every Digit
 
+1. String Ends With?
+
 1. Testing 1-2-3
 
 1. Word Values

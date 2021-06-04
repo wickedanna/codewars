@@ -112,6 +112,8 @@
 
 1. Separate Basic Types
 
+1. Simple Remove Duplicates
+
 1. Small Enough - Beginner
 
 1. Sort Arrays - 1

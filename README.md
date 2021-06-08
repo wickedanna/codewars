@@ -128,6 +128,8 @@
 
 1. Testing 1-2-3
 
+1. The Barksdale Code
+
 1. Word Values
 
 ## 6-Kyu

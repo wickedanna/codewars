@@ -14,6 +14,8 @@
 
 1. Find Maximum and Minimum Values of a List
 
+1. Find the First Non-Consecutive Number
+
 1. Function 3 - Multiply Two Numbers
 
 1. Get Planet Name By Id

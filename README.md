@@ -94,6 +94,8 @@
 
 1. Find the Vowels
 
+1. I'm Everywhere
+
 1. Isograms
 
 1. Life Path Number

@@ -132,6 +132,8 @@
 
 1. String Ends With?
 
+1. Sum The Strings Array Edition
+
 1. Testing 1-2-3
 
 1. The Barksdale Code

@@ -42,6 +42,8 @@
 
 1. No Loops 2 - You Only Need One
 
+1. Opposites Attract
+
 1. Pre-FizzBuzz Workout #1
 
 1. Price of Mangoes

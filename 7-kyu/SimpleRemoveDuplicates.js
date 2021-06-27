@@ -14,3 +14,6 @@ Good luck!
 */
 
 const solve = (arr) => [...new Set([...arr].reverse())].reverse();
+
+// Refactored
+arr.filter((val,i) => arr.lastIndexOf(val) == i);

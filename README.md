@@ -132,6 +132,8 @@
 
 1. Sort Numbers
 
+1. Spoonerize Me
+
 1. Spray Trees
 
 1. Square Every Digit

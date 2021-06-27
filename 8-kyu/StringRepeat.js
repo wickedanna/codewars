@@ -16,3 +16,6 @@ const repeatStr = (num, str) => {
 	}
   return newStr;
 };
+
+// Refactored
+const repeatStr = (n, str) => str.repeat(n);

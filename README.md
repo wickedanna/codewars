@@ -120,6 +120,8 @@
 
 1. Paul's Misery
 
+1. PopShift
+
 1. Reverse Words
 
 1. Separate Basic Types
@@ -149,6 +151,8 @@
 1. Testing 1-2-3
 
 1. The Barksdale Code
+
+1. Valid Spacing
 
 1. Word Values
 

@@ -130,6 +130,8 @@
 
 1. Simple Fun # 195 - Guess Hat Color
 
+1. Slaphead
+
 1. Small Enough - Beginner
 
 1. Sort Arrays - 1

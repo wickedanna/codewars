@@ -8,6 +8,8 @@
 
 1. [Beginner Reduce But Grow](8-kyu/Beginner-ReduceButGrow.js)
 
+1. [Beginner Series #4 Cockroach](8-kyu/BeginnerSeries4Cockroach.js)
+
 1. [Beginner - Series #1 School Paperwork](8-kyu/BeginnerSeriesSchoolPaperwork.js)
 
 1. [Filter Out The Geese](8-kyu/FilterOutTheGeese.js)

@@ -2,77 +2,77 @@
 
 ## 8-Kyu
 
-1. A Wolf in Sheep's Clothing
+1. [A Wolf in Sheep's Clothing](8-kyu/AWolfInSheepsClothing.js)
 
-1. Beginner - Lost Without A Map
+1. [Beginner - Lost Without A Map](8-kyu/Beginner-LostWithoutAMap.js)
 
-1. Begginer Series #1 School Paperwork
+1. [Beginner Reduce But Grow](8-kyu/Beginner-ReduceButGrow.js)
 
-1. Beginner - Reduce But Grow
+1. [Beginner - Series #1 School Paperwork](8-kyu/BeginnerSeriesSchoolPaperwork.js)
 
-1. Filter Out The Geese
+1. [Filter Out The Geese](8-kyu/FilterOutTheGeese.js)
 
-1. Find Maximum and Minimum Values of a List
+1. [Find Maximum and Minimum Values of a List](8-kyu/FindMaxAndMinValuesOfAList.js)
 
-1. Find the First Non-Consecutive Number
+1. [Find the First Non-Consecutive Number](8-kyu/FindTheFirstNonConsecutiveNumber.js)
 
-1. Function 3 - Multiply Two Numbers
+1. [Function 3 - Multiply Two Numbers](8-kyu/Function3-MultiplyTwoNumbers.js)
 
-1. Get Planet Name By Id
+1. [Get Planet Name By Id](8-kyu/GetPlanetNameById.js)
 
-1. Get the Mean of An Array
+1. [Get the Mean of An Array](8-kyu/GetTheMeanOfanArray.js)
 
-1. Grasshopper - Grade Book
+1. [Grasshopper - Grade Book](8-kyu/Grasshopper-GradeBook.js)
 
-1. Grasshopper - Personalized Message
+1. [Grasshopper - Personalized Message](8-kyu/Grasshopper-PersonalizedMessage.js)
 
-1. Grasshopper - Summation
+1. [Grasshopper - Summation](8-kyu/Grasshopper-Summation.js)
 
-1. Gravity Flip
+1. [Gravity Flip](8-kyu/GravityFlip.js)
 
-1. Hello Name or World
+1. [Hello Name or World](8-kyu/HelloNameOrWorld.js)
 
-1. Is He Gonna Survive?
+1. [Is He Gonna Survive?](8-kyu/IsHeGonnaSurvive.js)
 
-1. Keep up the Hoop
+1. [Keep up the Hoop](8-kyu/KeepUpTheHoop.js)
 
-1. Make Upper Case
+1. [Make Upper Case](8-kyu/MakeUpperCase.js)
 
-1. Multiply
+1. [Multiply](8-kyu/Multiply.js)
 
-1. My Head is at the Wrong End
+1. [My Head is at the Wrong End](8-kyu/MyHeadIsAtTheWrongEnd.js)
 
-1. No Loops 2 - You Only Need One
+1. [No Loops 2 - You Only Need One](8-kyu/NoLoops2YouOnlyNeedOne.js)
 
-1. Opposites Attract
+1. [Opposites Attract](8-kyu/OppositesAttract.js)
 
-1. Pre-FizzBuzz Workout #1
+1. [Pre-FizzBuzz Workout #1](8-kyu/Pre-FizzbuzzWorkOutOne.js)
 
-1. Price of Mangoes
+1. [Price of Mangoes](8-kyu/PriceOfMangoes.js)
 
-1. Remove First and Last Character
+1. [Remove First and Last Character](8-kyu/RemoveFirstAndLastCharacter.js)
 
-1. Remove First and Last Character Part Two
+1. [Remove First and Last Character Part Two](8-kyu/RemoveFirstAndLastCharacterPartTwo.js)
 
-1. Return Negative
+1. [Return Negative](8-kyu/ReturnNegative.js)
 
-1. Reversed Strings
+1. [Reversed Strings](8-kyu/ReversedStrings.js)
 
-1. Reversed Words
+1. [Reversed Words](8-kyu/ReversedWords.js)
 
-1. Square (n) Sum
+1. [Square (n) Sum](8-kyu/SquareSum.js)
 
-1. String Repeat
+1. [String Repeat](8-kyu/StringRepeat.js)
 
-1. Sum Mixed Array
+1. [Sum Mixed Array](8-kyu/SumMixedArray.js)
 
-1. Sum of Positives
+1. [Sum of Positives](8-kyu/SumOfPositives.js)
 
-1. Sum the Strings
+1. [Sum the Strings](8-kyu/SumTheStrings.js)
 
-1. The Most Asked Question on Codewars
+1. [The Most Asked Question on Codewars](8-kyu/TheMostAskedQuestionOnCodewars.js)
 
-1. You Only Need One - Beginner
+1. [You Only Need One - Beginner](8-kyu/YouOnlyNeedOne-Beginner.js)
 
 ## 7-Kyu
 

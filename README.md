@@ -128,6 +128,8 @@
 
 1. [Mumbling](7-kyu/Mumbling.js)
 
+1. [Negative Connotations](7-kyu/NegativeConnotations.js)
+
 1. [Numbers to Letters](7-kyu/NumbersToLetters.js)
 
 1. [Odd or Even](7-kyu/OddOrEven.js)

@@ -110,6 +110,8 @@
 
 1. [Find the Vowels](7-kyu/FindTheVowels.js)
 
+1. [Functional Addition](7-kyu/FunctionalAddition.js)
+
 1. [Highest And Lowest](7-kyu/HighestAndLowest.js)
 
 1. [I'm Everywhere](7-kyu/ImEverywhere.js)

@@ -178,4 +178,6 @@
 
 1. [Convert String to Camel Case](6-kyu/ConvertStringToCamelCase.js)
 
+1. [Detect Pangram](6-kyu/DetectPangram.js)
+
 1. [Find the Odd Int](6-kyu/FindTheOddInt.js)

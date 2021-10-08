@@ -108,6 +108,8 @@
 
 1. [Find the Vowels](7-kyu/FindTheVowels.js)
 
+1. [Highest And Lowest](7-kyu/HighestAndLowest.js)
+
 1. [I'm Everywhere](7-kyu/ImEverywhere.js)
 
 1. [Isograms](7-kyu/Isograms.js)

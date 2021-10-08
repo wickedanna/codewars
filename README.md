@@ -178,6 +178,8 @@
 
 1. [Valid Spacing](7-kyu/ValidSpacing.js)
 
+1. [Which String Is Worth More?](7-kyu/WhichStringIsWorthMore.js)
+
 1. [Word Values](7-kyu/WordValues.js)
 
 ## 6-Kyu

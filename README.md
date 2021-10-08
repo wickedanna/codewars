@@ -106,6 +106,8 @@
 
 1. [Double Trouble](7-kyu/DoubleTrouble.js)
 
+1. [Even Or Odd Which Is Greater](7-kyu/EvenOrOddWhichIsGreater.js)
+
 1. [Find the Middle Element](7-kyu/FindTheMiddleElement.js)
 
 1. [Find the Stray Number](7-kyu/FindTheStrayNumber.js)

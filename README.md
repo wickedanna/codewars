@@ -174,6 +174,8 @@
 
 1. [Testing 1-2-3](7-kyu/Test1-2-3.js)
 
+1. [Test Your Knowledge of Function Scope](7-kyu/TestYourKnowledgeOfFunctionScope.js)
+
 1. [The Barksdale Code](7-kyu/TheBarksdaleCode.js)
 
 1. [Valid Spacing](7-kyu/ValidSpacing.js)

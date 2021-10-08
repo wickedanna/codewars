@@ -46,6 +46,8 @@
 
 1. [My Head is at the Wrong End](8-kyu/MyHeadIsAtTheWrongEnd.js)
 
+1. [Name on Billboard](8-kyu/NameOnBillboard.js)
+
 1. [No Loops 2 - You Only Need One](8-kyu/NoLoops2YouOnlyNeedOne.js)
 
 1. [Opposites Attract](8-kyu/OppositesAttract.js)

@@ -136,6 +136,8 @@
 
 1. [Reverse Words](7-kyu/ReverseWords.js)
 
+1. [Say "Hello World" JS Style](7-kyu/SayHelloWorldJSStyle.js)
+
 1. [Separate Basic Types](7-kyu/SeparateBasicTypes.js)
 
 1. [Simple Remove Duplicates](7-kyu/SimpleRemoveDuplicates.js)

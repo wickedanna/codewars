@@ -4,6 +4,8 @@
 
 1. [A Wolf in Sheep's Clothing](8-kyu/AWolfInSheepsClothing.js)
 
+1. [Basic Variable Assignment](8-kyu/BasicVariableAssignment.js)
+
 1. [Beginner - Lost Without A Map](8-kyu/Beginner-LostWithoutAMap.js)
 
 1. [Beginner Reduce But Grow](8-kyu/Beginner-ReduceButGrow.js)

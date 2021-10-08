@@ -191,3 +191,7 @@
 1. [Detect Pangram](6-kyu/DetectPangram.js)
 
 1. [Find the Odd Int](6-kyu/FindTheOddInt.js)
+
+## 5-Kyu
+
+1. [Extract The Domain Name From A Url](5-kyu/ExtractTheDomainNameFromAUrl.js)

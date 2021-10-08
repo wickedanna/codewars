@@ -90,6 +90,8 @@
 
 1. [Bumps In The Road](7-kyu/BumpsInTheRoad.js)
 
+1. [Case Swapping](7-kyu/CaseSwapping.js)
+
 1. [Cat and Mouse Easy Version](7-kyu/CatAndMouseEasyVersion.js)
 
 1. [Char Code Calculation](7-kyu/CharCodeCalculation.js)

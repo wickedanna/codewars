@@ -126,6 +126,8 @@
 
 1. [Last Survivor](7-kyu/LastSurvivor.js)
 
+1. [Letters Only Please](7-kyu/LettersOnlyPlease.js)
+
 1. [Life Path Number](7-kyu/LifePathNumber.js)
 
 1. [List Filtering](7-kyu/ListFiltering.js)

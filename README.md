@@ -170,6 +170,8 @@
 
 1. [String Ends With?](7-kyu/StringEndsWith.js)
 
+1. [Strings: Swap Vowels Case](7-kyu/StringsSwapVowelsCase.js)
+
 1. [Sum The Strings Array Edition](7-kyu/SumTheStringsArrayEdition.js)
 
 1. [Testing 1-2-3](7-kyu/Test1-2-3.js)

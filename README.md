@@ -88,6 +88,8 @@
 
 1. [An English Twist on a Japanese Classic](7-kyu/AnEnglishTwistOnAJapaneseClassic.js)
 
+1. [Beginner Series #3 Sum of Numbers](7-kyu/BeginnerSeriesThreeSumOfNumbers.js)
+
 1. [Bumps In The Road](7-kyu/BumpsInTheRoad.js)
 
 1. [Case Swapping](7-kyu/CaseSwapping.js)
